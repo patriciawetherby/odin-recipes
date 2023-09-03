@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf -8">
+
+    </head>
+
+    <body>
+
+        <h1>Tonkatsu</h1>
+
+        <img src="../photos/tonkatsu-photo.jpg">
+
+        <h3>Description</h3>
+
+        <p>Our guilty pleasure, a crispy, fried Japanese pork cutlet. <br>
+            Serve with a side of cabbage and tonkatsu sauce or use it as <br>
+            the perfect base for our favorites, katsudon or katsu curry.</p>
+
+        <h4>Tools</h4>
+
+        <ul>
+            <li>Sharp Knife</li>
+            <li>Mandolin(optional)</li>
+            <li>3 plates/bowls for breading process</li>
+            <li>Cast Iron SKillet for frying</li>
+        </ul>
+
+
+        <h4>Ingredients</h4>
+        
+
+        <ul>
+            <li>1/4 pound cabbage, cored</li>
+            <li>4 fillets boneless pork shoulder or pork loin (~ 1lb)<br>
+            about 3/4 inch thick</li>
+            <li>Salt and ground black pepper</li>
+            <li>2 eggs</li>
+            <li>1/2 cup flour</li>
+            <li>2 cups panko crumbs</li>
+            <li>Vegetable oil for deep-frying</li>
+            <li>4 teaspoons Japanese karashi mustard</li>
+            <li>1/3 cup tonkatsu sauce, store-bought or<br>
+                homemade</li>
+            <li>Steamed rice, for serving</li>
+        </ul>
+
+        
+        <h4>Directions</h4>
+
+        <ol>
+            <li>Slice the cabbage as thinly as possible using a knife or mandoline.<br>
+            Set aside.</li>
+            <br>
+            <li>To prepare the pork fillets, lay the fillets flat on a cutting board.<br>
+                tap the fillets with the back edge of a kitchen knife to dig notches <br>
+                into the meat. Turn the knife so that the flat side is facing the fillets.<br>
+                Pound the meat with the knife's flat side about 6 to 8 times on<br>
+                each side of the pork to flatten the meat to about 1/2 inch thick.<br>
+                Cut 1/2-inch notches into the white fat of the fillets, which will <br>
+                prevent the fillet from curling when frying. Season the fillets on both sides <br>
+                with salt and pepper. Transfer the prepared pork fillets to a plate.</li>
+            <br>
+            <li>Beat the eggs in a bowl and set aside. Prepare 4 plates.<br>
+                Pour the flour onto the first plate.<br>
+                Pour the beaten egg onto the second plate.<br>
+                Leave the fourth plate empty for now, this will hold the breaded fillets</li>
+            <br>
+            <li>Place a cast-iron skillet on a burner. Fill the skillet with vegetable oil<br>
+                to a height of at least 1 inch. Attach a deep-fry or candy thermometer<br>
+                to the side of the skillet. On a worksurface near the skillet, set up a tray<br>
+                lined with newspaper or paper towels to drain the cooked tonkatsu.<br>
+                Turn the heat on to high. Heat the oil to 340 F.</li>
+            <br>
+            <li>While the oil is heating, bread the fillets. First, dredge a fillet in flour<br>
+                on both sides and shake off excess flour. Second, dip the fillet into the egg,<br>
+                coating both sides. Third, repeat the process, dredging the pork in the flour<br>
+                again on both sides, then coating it again with egg on both sides.<br>
+                Finally, lay the fillet on the panko crumbs. Pile panko on top of the pork<br>
+                with your fingers then gently press the panko onto the fillet with the palms<br>
+                of your hand so a generous layer of panko sticks to the fillet on both sides.<br>
+                Repeat with the other fillets, then place them on the empty plate you prepared earlier.</li>
+            <br>
+            <li>When the oil has heated to 340 F, carefully slide the fillets into the skillet.<br>
+                Depending on the size of the skillet, cook the tonkatsu in batches.<br>
+                Be careful not to overfill the skillet, which will lower the cooking temperature;<br>
+                use, at most, half of the surface area of the oil to cook. While the tonkatsu<br>
+                is cooking, check the oil temperature with the thermometer. Regulate the heat <br>
+                to maintain a constant 340 F oil temperature. If the oil is too hot, the tonkatsu<br>
+                will burn; if it is too hot, the tonkatsu will burn; if it is too low, the tonkatsu <br>
+                will come out soft and greasy.</li>
+            <br>
+            <li>Cook the tonkatsu for about 4 minutes, turning once, until the fillets<br>
+                turn golden brown. When they're ready, transfer the fillets to the paper-lined plate <br>
+                to drain. If possible, stand the fillets on their edges, so they drain better.<br>
+                You can accomplish this with a metal rack, if you have one.</li>
+            <br>
+            <li>Transfer the tonkatsu to a cutting board and slice into strips. For each serving, <br>
+                place the pork on a plate, along with a heap of sliced cabbage and a dab of mustard.<br>
+                Serve topped with about 2 tablespoons of tonkatsu sauce or serve the sauce on the side.<br>
+                Serve piping hot with steamed white rice on the side.</li>
+        </ol>
+
+    </body>
+</html>
